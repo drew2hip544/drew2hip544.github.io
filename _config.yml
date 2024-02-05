@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Esta es una prueba interesante
+title: Pacífico Seguros
 email: dzevallos@baufest.com
 description: >- # this means to ignore newlines until "baseurl:"
   Esta es una descripción de prueba para ver si todo lo creado funciona
